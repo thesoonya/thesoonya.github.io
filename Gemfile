@@ -10,4 +10,4 @@ gem "jekyll", "~> 3.9.0"
 
 gem "jekyll-theme-yat"
 
-gem "kramdown-parser-gfm
+gem "kramdown-parser-gfm"
