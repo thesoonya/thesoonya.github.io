@@ -7,7 +7,7 @@ title: FAQ Tweet Creator
 
 >Switching theme
 
-For switching between dark and light mode of app, touch the **Sun** or **Moon** icon in toolbar.
+For switching between dim, dark and light mode of app, touch the **Sun** or **Moon** icon on the toolbar, then choose any desired theme.
 
 ![Theme switching](../../assets/images/help-section/themeChange.jpg
 )
@@ -89,31 +89,19 @@ Touch the **comment icon** for adding reply to the tweet.
 
 Tap on **like/retweet icons** for highlighting them.
 
-> Changing like/retweet count.
 
-Do **long press** on **like/retweet icons** to change counts.
 
 ![Adding reply like/retweet count](../../assets/images/help-section/replyLike&TweetCounter.jpg
 )
 <!-- 10 -->
-## How to add verified badge to reply users ?
-> Toggling verified badge of reply users.
+## How to change reply options?
+> Changing various reply options like verified badge, private account and counts
 
-Touch the share button of the reply, for adding verify badge.
+Touch the 3 dots on the right of the reply, for accessing reply options menu.
 
-![Verify badge to reply](../../assets/images/help-section/replyBadge.jpg
+![Reply options menu](../../assets/images/help-section/tweetReplyOption.jpg
 )
 <!-- 11 -->
-## How to select saved users for replies?
-> Selecting saved user profiles for replies
-
-1. Touch the **3 vertical dots** on the right of the reply.
-1. Now, on the **user list screen**, tap on any **user profile**, for selecting it for reply.
-
-![Adding user to reply](../../assets/images/help-section/verifyReply&AddUser.jpg
-)
-
-<!-- 12 -->
 ## How to create a reply thread ?
 > Creating reply thread.
 
@@ -122,14 +110,25 @@ Touch **reply icon** of the reply for creating a **reply thread**.
 ![replyToReply](../../assets/images/help-section/replyToReply.jpg
 )
 
-<!-- 13 -->
-## How to add comment count in reply thread ?
+<!-- 12 -->
+## How to add quote tweet?
 
-> Changing comment count on reply thread.
+> Adding Quote tweet.
 
-Long press on the **comment icon** of replies in reply thread.
+Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Quote tweet.
 
-![replyToReplyCommentNumber](../../assets/images/help-section/replyChildCommentCount.jpg
+![Quote Tweet](../../assets/images/help-section/quoteTweet.jpg
 )
->
+
+<!-- 13 -->
+## How to add image to quote tweet?
+
+> Adding images to Quote tweet.
+
+1. Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Quote tweet.
+2. Enable Quote Photo.
+3. Choose any image from your device.
+
+![Quote Tweet](../../assets/images/help-section/quotetweetimage.jpg
+)
 
