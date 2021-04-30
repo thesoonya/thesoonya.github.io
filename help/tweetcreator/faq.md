@@ -9,7 +9,7 @@ title: FAQ Tweet Creator
 
 For switching between dim, dark and light mode of app, touch the **Sun** or **Moon** icon on the toolbar, then choose any desired theme.
 
-![Theme switching](../../assets/images/help-section/themeChange.jpg
+![Theme switching](../../assets/images/help-section/themeChange.webp
 )
 
 
@@ -19,19 +19,18 @@ For switching between dim, dark and light mode of app, touch the **Sun** or **Mo
 
 Tap 3 dots on the **top right** of the tweet.
 
-![Tweet options](../../assets/images/help-section/tweetOptions.jpg
+![Tweet options](../../assets/images/help-section/tweetOptions.webp
 )
 
 <!-- 3 -->
-## How to set default user for future tweets?
-> Setting default user for main tweet
+## How to select saved user for tweet?
+> Selecting saved tuser for main tweet
 
 1. Open **more options menu** by clicking on 3 dots. 
 2. Tap **Select user** in the menu.
 3. Choose any user from the list by tapping on the user profile.
-4. Enjoy, now you don't have to enter same user details again 🙂.
 
-![Default User](../../assets/images/help-section/defaultUser.jpg
+![Default User](../../assets/images/help-section/defaultUser.webp
 )
 <!-- 4 -->
 ## How to add users to the user list?
@@ -45,7 +44,7 @@ Tap 3 dots on the **top right** of the tweet.
     * Select image
 1. After entering all details, Tap the **Add User** button.
 
-![Adding User](../../assets/images/help-section/addUserinList.jpg
+![Adding User](../../assets/images/help-section/addUserinList.webp
 )
 <!-- 5 -->
 ## How to edit users in the user list?
@@ -55,7 +54,7 @@ Tap 3 dots on the **top right** of the tweet.
 1. Tap on any user in the user list. 
 1. Edit any detail of the user and tap **Edit User**
 
-![Editing User](../../assets/images/help-section/editUserSelect.jpg
+![Editing User](../../assets/images/help-section/editUserSelect.webp
 )
 <!-- 6 -->
 ## How to delete users from the user list?
@@ -64,7 +63,7 @@ Tap 3 dots on the **top right** of the tweet.
 1. On the **home screen**, Tap the **human icon 🤵**.
 1. **Left swipe** any user to delete it from user list.
 
-![Deleting User](../../assets/images/help-section/deleteUserSelect.jpg
+![Deleting User](../../assets/images/help-section/deleteUserSelect.webp
 )
 <!-- 7 -->
 ## How to retweet ?
@@ -74,7 +73,7 @@ Tap 3 dots on the **top right** of the tweet.
 2. Turn on **Retweeted text**.
 3. Tap on **You retweted** for changing user.
 
-![Retweeted tweet](../../assets/images/help-section/retweetedText.jpg)
+![Retweeted tweet](../../assets/images/help-section/retweetedText.webp)
 
 ## How to change retweet count?
 > Changing retweet count
@@ -84,7 +83,7 @@ Tap 3 dots on the **top right** of the tweet.
 3. Tap on retweet count.
 4. Enter any desired count and save.
 
-![Retweet Count](../../assets/images/help-section/retweetCount.jpg)
+![Retweet Count](../../assets/images/help-section/retweetCount.webp)
 
 
 ## How to change like count?
@@ -95,7 +94,7 @@ Tap 3 dots on the **top right** of the tweet.
 3. Tap on like count.
 4. Enter any desired count and save.
 
-![Like Count](../../assets/images/help-section/likeCount.jpg)
+![Like Count](../../assets/images/help-section/likeCount.webp)
 
 
 ## How to reset tweet?
@@ -104,7 +103,20 @@ Tap 3 dots on the **top right** of the tweet.
 1. Open **more options menu** by tapping on 3 dots.
 2. Tap on **Reset Tweet**.
 
-![Reset tweet](../../assets/images/help-section/reset.jpg)
+>NOTE: Resetting a tweet doesn't delete it, you have to manually delete these resetted tweets from saved tweets section. 
+
+![Reset tweet](../../assets/images/help-section/reset.webp)
+
+
+## How to access Saved Tweets?
+>Opening Saved Tweets
+1. Tap on the **hamburger icon** on the top left corner.
+2. Select **Saved Tweets** from the navigation menu.
+3. Tap on any saved tweet to edit it or delete it using the **dustbin** icon.
+
+![Deleting a reply](../../assets/images/help-section/savedTweet.webp
+)
+
 
 ## How to add quote tweet?
 
@@ -112,7 +124,7 @@ Tap 3 dots on the **top right** of the tweet.
 
 Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Quote tweet.
 
-![Quote Tweet](../../assets/images/help-section/quoteTweet.jpg
+![Quote Tweet](../../assets/images/help-section/quoteTweet.webp
 )
 
 ## How to select saved user for quote tweet?
@@ -124,7 +136,7 @@ Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Q
 3. Tap **Select User**.
 4. Choose any user from the list.
 
-![Select user for Quote Tweet](../../assets/images/help-section/quoteSelectUser.jpg
+![Select user for Quote Tweet](../../assets/images/help-section/quoteSelectUser.webp
 )
 
 ## How to add image in quote tweet?
@@ -135,7 +147,7 @@ Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Q
 2. Enable Quote Photo.
 3. Choose any image from your device.
 
-![Quote Tweet images](../../assets/images/help-section/quoteTweetPhoto.jpg
+![Quote Tweet images](../../assets/images/help-section/quoteTweetPhoto.webp
 )
 
 
@@ -146,7 +158,7 @@ Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Q
 1. Tap the share icon of the main tweet for accessing **quote tweet menu**.
 2. Tap on **Reset Quote Tweet**.
 
-![Reset quote Tweet](../../assets/images/help-section/quoteReset.jpg
+![Reset quote Tweet](../../assets/images/help-section/quoteReset.webp
 )
 
 ## How to add replies ?
@@ -154,7 +166,7 @@ Tap share icon of the main tweet for accessing **quote tweet menu** and Enable Q
 
 Touch the **comment icon** for adding reply to the tweet.
 
-![Adding Reply](../../assets/images/help-section/reply.jpg
+![Adding Reply](../../assets/images/help-section/reply.webp
 )
 
 <!-- 9 -->
@@ -164,7 +176,7 @@ Touch the **comment icon** for adding reply to the tweet.
 Tap on **like/retweet icons** for highlighting them.
 
 
-![Adding reply like/retweet count](../../assets/images/help-section/replyLikeAndRetweet.jpg
+![Adding reply like/retweet count](../../assets/images/help-section/replyLikeAndRetweet.webp
 )
 
 ## How to toggle reply options?
@@ -172,7 +184,7 @@ Tap on **like/retweet icons** for highlighting them.
 
 Tap 3 dots on the right of the reply, for accessing the reply options menu.
 
-![Reply options menu](../../assets/images/help-section/replyOptions.jpg
+![Reply options menu](../../assets/images/help-section/replyOptions.webp
 )
 
 
@@ -183,7 +195,7 @@ Tap 3 dots on the right of the reply, for accessing the reply options menu.
 2. Tap on **Select User**.
 3. Select any user from the list by tapping on it.
 
-![Select user for reply](../../assets/images/help-section/replyUser.jpg
+![Select user for reply](../../assets/images/help-section/replyUser.webp
 )
 
 ## How to change comment count of reply?
@@ -195,7 +207,7 @@ Tap 3 dots on the right of the reply, for accessing the reply options menu.
 
 > Tip: You can enter **0** or **leave count blank** for **disabling comment count**.
 
-![Changing reply comment count](../../assets/images/help-section/replyCommentCount.jpg
+![Changing reply comment count](../../assets/images/help-section/replyCommentCount.webp
 )
 
 ## How to change retweet count of reply?
@@ -207,7 +219,7 @@ Tap 3 dots on the right of the reply, for accessing the reply options menu.
 
 > Tip: You can enter **0** or **leave count blank** for **disabling retweet count**.
 
-![Changing reply retweet count](../../assets/images/help-section/replyRetweetCount.jpg
+![Changing reply retweet count](../../assets/images/help-section/replyRetweetCount.webp
 )
 
 ## How to change like count of reply?
@@ -219,7 +231,7 @@ Tap 3 dots on the right of the reply, for accessing the reply options menu.
 
 > Tip: You can enter **0** or **leave count blank** for **disabling like count**.
 
-![Changing reply like count](../../assets/images/help-section/replyLikeCount.jpg
+![Changing reply like count](../../assets/images/help-section/replyLikeCount.webp
 )
 
 ## How to delete a reply?
@@ -229,7 +241,7 @@ Tap 3 dots on the right of the reply, for accessing the reply options menu.
 2. Tap on **Delete** for deleting a reply
 
 
-![Deleting a reply](../../assets/images/help-section/replyDelete.jpg
+![Deleting a reply](../../assets/images/help-section/replyDelete.webp
 )
 
 ## How to create a reply thread?
@@ -237,7 +249,7 @@ Tap 3 dots on the right of the reply, for accessing the reply options menu.
 
 Touch **reply icon** of the reply for creating a **reply thread**.
 
-![Reply Thread](../../assets/images/help-section/replyThread.jpg
+![Reply Thread](../../assets/images/help-section/replyThread.webp
 )
 
 
@@ -247,7 +259,7 @@ Touch **reply icon** of the reply for creating a **reply thread**.
 
 Tap 3 dots on the right of the reply, for accessing the menu for replies in reply thread.
 
-![Reply options menu](../../assets/images/help-section/replyThreadOptions.jpg
+![Reply options menu](../../assets/images/help-section/replyThreadOptions.webp
 )
 
 
@@ -255,9 +267,10 @@ Tap 3 dots on the right of the reply, for accessing the menu for replies in repl
 ## How to delete a reply in reply thread?
 > Deleting a reply in reply thread
 
-1. Open **reply options menu** by tapping on **3 dots** of the reply.
+1. Open **reply options menu** of replies in reply thread, by tapping on **3 dots** of the reply.
 2. Tap on **Delete** for deleting a reply in reply thread
 
 
-![Deleting a reply](../../assets/images/help-section/replyDelete.jpg
+![Deleting a reply](../../assets/images/help-section/deleteReplyInReplyThread.webp
 )
+
