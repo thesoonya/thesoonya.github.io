@@ -12,6 +12,17 @@ For switching between dim, dark and light mode of app, touch the **Sun** or **Mo
 ![Theme switching](../../assets/images/help-section/themeChange.webp
 )
 
+## How to toggle emojis ?
+
+>Toggling between twitter and system emoji
+1. Tap on the **hamburger icon** on the top left corner.
+2. Tap **Twitter emoji** in the navigation menu.
+3. Accept the confirmation that you want to restart the app.
+>Note: Changing emoji requires app restart.
+
+![Toggling emoji](../../assets/images/help-section/changeEmoji.webp
+)
+
 
 <!-- 2 -->
 ## How to toggle tweet options ?
