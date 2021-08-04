@@ -1,10 +1,10 @@
 ---
 layout: privacypolicy
-title: Terms & Conditions for Twee Creator
+title: Terms of Service for Twee Creator
 ---
 
 
-# Terms & Conditions
+# Terms of Service
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Soonya.
 
@@ -21,6 +21,7 @@ Link to Terms and Conditions of third party service providers used by the app
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+*   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 
 Along the same lines, Soonya cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Soonya cannot accept responsibility.
 
